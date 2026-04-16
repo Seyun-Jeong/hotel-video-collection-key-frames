@@ -1,1 +1,4 @@
-video_id,source_url,duration_sec,origin_video,hotel_name,hotel_chain,city,country,room_type,bed_visible,bathroom_visible,wall_object_visible,desk_visible,window_visible,video_quality,camera_rotations ,notes
+video_id	source_url	duration_sec	source_platform	hotel_name	hotel_chain	city	country	room_type	bed_visible	bathroom_visible	wall_object_visible	desk_visible	window_visible	video_quality	camera_rotations 	notes
+video_01	https://www.youtube.com/watch?v=PMiV4nygFJI	392	Youtube	Holiday Inn Express & Suites Roanoke – Civic Center by IHG	IHG (InterContinental Hotels Group)	Virginia	USA	double queen	yes	yes	yes	yes	yes	High	smooth	"the price of the hotel for one night is $117. Youtube video from DieselDucy
+"
+video_02	https://www.youtube.com/watch?v=_onOWw7c3yE	466	Youtube	Hyatt House Seattle	Hyatt	Seattle	USA	 suite with two queen beds 	yes	yes	yes	yes(kittchen table)	yes	High	smooth	Youtube from DieselDucy
