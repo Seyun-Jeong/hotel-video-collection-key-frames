@@ -1,4 +1,8 @@
-video_id	source_url	duration_sec	source_platform	hotel_name	hotel_chain	city	country	room_type	bed_visible	bathroom_visible	wall_object_visible	desk_visible	window_visible	video_quality	camera_rotations 	notes
-video_01	https://www.youtube.com/watch?v=PMiV4nygFJI	392	Youtube	Holiday Inn Express & Suites Roanoke – Civic Center by IHG	IHG (InterContinental Hotels Group)	Virginia	USA	double queen	yes	yes	yes	yes	yes	High	smooth	"the price of the hotel for one night is $117. Youtube video from DieselDucy
+video_id,source_url,duration_sec,source_platform,hotel_name,hotel_chain,city,country,room_type,bed_visible,bathroom_visible,wall_object_visible,desk_visible,window_visible,video_quality,camera_rotations ,notes
+video_01,https://www.youtube.com/watch?v=PMiV4nygFJI,392,Youtube,Holiday Inn Express & Suites Roanoke – Civic Center by IHG,IHG (InterContinental Hotels Group),Virginia,USA,double queen,yes,yes,yes,yes,yes,High,smooth,"the price of the hotel for one night is $117. Youtube video from DieselDucy
 "
-video_02	https://www.youtube.com/watch?v=_onOWw7c3yE	466	Youtube	Hyatt House Seattle	Hyatt	Seattle	USA	 suite with two queen beds 	yes	yes	yes	yes(kittchen table)	yes	High	smooth	Youtube from DieselDucy
+video_02,https://www.youtube.com/watch?v=_onOWw7c3yE,466,Youtube,Hyatt House Seattle,Hyatt,Seattle,USA, suite with two queen beds ,yes,yes,yes,yes(kittchen table and bedside table),yes,High,smooth,Youtube from DieselDucy
+video_03,https://www.youtube.com/watch?v=hWRreppl7-c,238,Youtube,Excalibur Hotel & Casino,MGM Resorts,Las Vegas,USA,two queen standard,yes,yes,yes,yes,yes,High,smooth,Youtube from Seeking Paradise Together
+video_04,https://www.youtube.com/watch?v=9cQiaUJ0Saw&list=PLD38E2F224AEDD989,430,Youtube,The Century House Latham,Choice Hotels International.,Albany,USA,two queen standard,yes,yes,yes,yes,yes,High,smooth,"Youtube from DieselDucy
+the hotel was about $110"
+video_05,https://www.youtube.com/watch?v=uLOTOOtSD1E,,Youtube, Disney's Grand Californian Hotel & Spa,Disney Resorts,Anaheim,USA, two queen standard with balcony,yes,yes,yes,yes,yes,High,smooth,"craftsman themed, Disney deluxe resort, balcony, extensive detail"
