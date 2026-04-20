@@ -1,24 +1,61 @@
-video_id,source_url,duration_sec,source_platform,hotel_name,hotel_chain,city,country,room_type,bed_visible,bathroom_visible,wall_object_visible,desk_visible,window_visible,video_quality,camera_rotations ,notes
-video_01,https://www.youtube.com/watch?v=PMiV4nygFJI,392,Youtube,Holiday Inn Express & Suites Roanoke – Civic Center by IHG,IHG (InterContinental Hotels Group),Virginia,USA,double queen,yes,yes,yes,yes,yes,High,smooth,"the price of the hotel for one night is $117. Youtube video from DieselDucy
+video_id	source_url	duration_sec	source_platform	hotel_name	hotel_chain	city	country	room_type	bed_visible	bathroom_visible	wall_object_visible	desk_visible	window_visible	video_quality	camera_rotations 	notes
+video_01	https://www.youtube.com/watch?v=PMiV4nygFJI	392	Youtube	Holiday Inn Express & Suites Roanoke – Civic Center by IHG	IHG (InterContinental Hotels Group)	Virginia	USA	double queen	yes	yes	yes	yes	yes	High	smooth	"the price of the hotel for one night is $117. Youtube video from DieselDucy
 "
-video_02,https://www.youtube.com/watch?v=_onOWw7c3yE,466,Youtube,Hyatt House Seattle,Hyatt,Seattle,USA, suite with two queen beds ,yes,yes,yes,yes(kittchen table and bedside table),yes,High,smooth,Youtube from DieselDucy
-video_03,https://www.youtube.com/watch?v=hWRreppl7-c,238,Youtube,Excalibur Hotel & Casino,MGM Resorts,Las Vegas,USA,two queen standard,yes,yes,yes,yes,yes,High,smooth,Youtube from Seeking Paradise Together
-video_04,https://www.youtube.com/watch?v=9cQiaUJ0Saw&list=PLD38E2F224AEDD989,430,Youtube,The Century House Latham,Choice Hotels International.,Albany,USA,two queen standard,yes,yes,yes,yes,yes,High,smooth,"Youtube from DieselDucy
+video_02	https://www.youtube.com/watch?v=_onOWw7c3yE	466	Youtube	Hyatt House Seattle	Hyatt	Seattle	USA	 suite with two queen beds 	yes	yes	yes	yes(kittchen table and bedside table)	yes	High	smooth	Youtube from DieselDucy
+video_03	https://www.youtube.com/watch?v=hWRreppl7-c	238	Youtube	Excalibur Hotel & Casino	MGM Resorts	Las Vegas	USA	two queen standard	yes	yes	yes	yes	yes	High	smooth	Youtube from Seeking Paradise Together
+video_04	https://www.youtube.com/watch?v=9cQiaUJ0Saw&list=PLD38E2F224AEDD989	430	Youtube	The Century House Latham	Choice Hotels International.	Albany	USA	two queen standard	yes	yes	yes	yes	yes	High	smooth	"Youtube from DieselDucy
 the hotel was about $110"
-video_05,https://www.youtube.com/watch?v=uLOTOOtSD1E,,Youtube, Disney's Grand Californian Hotel & Spa,Disney Resorts,Anaheim,USA, two queen standard with balcony,yes,yes,yes,yes,yes,High,smooth,"craftsman themed, Disney deluxe resort, balcony, extensive detail"
-video_06,https://www.youtube.com/watch?v=RX7wMDFtWnU,939,Youtube,Holiday Inn Express Bristol - Filton by IHG,Holiday Inn Express,Bristol,UK,King room with sofa bed,yes,yes,yes,yes,yes,High,smooth,A little bit of disruption of her hands movement to make a sound(she is trying to do ASMR)
-video_07,https://www.youtube.com/watch?v=nbALIpzxgKk,55,Youtube,Adaman Hotel,N/A,Changsha,China,twin-size bed room,yes,yes,yes,yes(just a bit),yes(but not outside),Medium,smooth,room tour 2:49-3:44. Hotel info:https://us.trip.com/hotels/v2/changsha-hotel-detail-122735927/chang-sha-a-da-man-jiu-dian/. 
-video_08,https://www.youtube.com/watch?v=ZZsGEOcyTr4,,Youtube,Conrad Seoul,Hilton,Seoul,South Korea,1 king bed premium,yes,yes,yes,yes,yes,High,smooth,516 square ft. Window facing Hang river. 1:16-4:04
-video_09,https://www.youtube.com/watch?v=Gk3Ssa2RVmI,,Youtube,Grand Mercure Hanoi,Accor,Hanoi,Vitenam,Delux King Room,yes,yes,yes,yes,yes,High,smooth,"room tour starts from 2:13 -7:14. bathroom and bedroom is divided by glass. But, toilet and shower have doors for privacy."
-video_10,https://www.youtube.com/watch?v=Zr_68XSzrAY,,Youtube,Upper House Hong Kong, Swire Hotels,Hong Kong ,Hong Kong, Studio 70 Harbour View,yes,yes,yes,yes,yes,High,smooth(horizontal view), I think room size(68 sq m/70sq ft) 
-video_11,https://www.youtube.com/watch?v=gZt2YgFGu1U&t=160s,,Youtube,Boutique Hotel Glacier,N/A,Grindelwald,Switzerland,Signature Room Sunrise (King),yes,yes,yes,yes,yes,High,smooth(horizontal view),The room is approximately 28 square meters (300 square feet)
-video_12,https://www.youtube.com/watch?v=YKyF5Mi1sAA,,Youtube,Inntel Hotels Amsterdam Zaandam,Inntel Hotels ,Zaandam,Netherland,Taste Deluxe Room,yes,yes,yes,yes(small desk near by the window),yes,High,smooth(horizontal view),I used Google AI search to identify which room is exactly they found out it is Taste Deluxe Room(
-video_13,https://www.youtube.com/watch?v=0PRGVJHd7jg,,Youtube,Pearl Continental Hotel Rawalpindi(PC Hotels),Pearl-Continental Hotels & Resorts,"Rawalpindi
-",Pakistan,Deluxe Room,yes,yes,yes,yes,yes,Medium,not really smooth( a lot of movement of camera),the room type looks delux room
-video_14,https://www.youtube.com/watch?v=-s-73MrA2vQ,,Youtube,Hotel Indonesia Kempinski Jakarta,Kempinski Hotels,Jakarta,indonesia,King room with sofa bed,yes,yes,yes,yes,yes,High,smooth,room tour starts at 4:39 and ends at 8:37
-video_15,https://www.youtube.com/watch?v=OkP11eKQazk,,Youtube,,,,UK,,,,,,,,,
-video_16,https://www.youtube.com/watch?v=rhGqZC4zQdI,,Youtube,,,,UK,,,,,,,,,
-video_17,https://www.youtube.com/watch?v=0KeX6CvOofI,,Youtube,,,,UK,,,,,,,,,
-video_18,https://www.youtube.com/watch?v=DpfvZB8uJv4,,Youtube,,,,UK,,,,,,,,,
-video_19,https://www.youtube.com/watch?v=XNycnAJqkmI,,Youtube,,,,China,,,,,,,,,
-video_20,https://www.youtube.com/watch?v=J6Fv59Qm8mM,,Youtube,,,,China,,,,,,,,,
+video_05	https://www.youtube.com/watch?v=uLOTOOtSD1E		Youtube	 Disney's Grand Californian Hotel & Spa	Disney Resorts	Anaheim	USA	 two queen standard with balcony	yes	yes	yes	yes	yes	High	smooth	craftsman themed, Disney deluxe resort, balcony, extensive detail
+video_06	https://www.youtube.com/watch?v=RX7wMDFtWnU	939	Youtube	Holiday Inn Express Bristol - Filton by IHG	Holiday Inn Express	Bristol	UK	King room with sofa bed	yes	yes	yes	yes	yes	High	smooth	A little bit of disruption of her hands movement to make a sound(she is trying to do ASMR)
+video_07	https://www.youtube.com/watch?v=nbALIpzxgKk	55	Youtube	Adaman Hotel	N/A	Changsha	China	twin-size bed room	yes	yes	yes	yes(just a bit)	yes(but not outside)	Medium	smooth	room tour 2:49-3:44. Hotel info:https://us.trip.com/hotels/v2/changsha-hotel-detail-122735927/chang-sha-a-da-man-jiu-dian/. 
+video_08	https://www.youtube.com/watch?v=ZZsGEOcyTr4		Youtube	Conrad Seoul	Hilton	Seoul	South Korea	1 king bed premium	yes	yes	yes	yes	yes	High	smooth	516 square ft. Window facing Hang river. 1:16-4:04
+video_09	https://www.youtube.com/watch?v=Gk3Ssa2RVmI		Youtube	Grand Mercure Hanoi	Accor	Hanoi	Vitenam	Delux King Room	yes	yes	yes	yes	yes	High	smooth	room tour starts from 2:13 -7:14. bathroom and bedroom is divided by glass. But, toilet and shower have doors for privacy.
+video_10	https://www.youtube.com/watch?v=Zr_68XSzrAY		Youtube	Upper House Hong Kong	 Swire Hotels	Hong Kong 	Hong Kong	 Studio 70 Harbour View	yes	yes	yes	yes	yes	High	smooth(horizontal view)	 I think room size(68 sq m/70sq ft) 
+video_11	https://www.youtube.com/watch?v=gZt2YgFGu1U&t=160s		Youtube	Boutique Hotel Glacier	N/A	Grindelwald	Switzerland	Signature Room Sunrise (King)	yes	yes	yes	yes	yes	High	smooth(horizontal view)	The room is approximately 28 square meters (300 square feet)
+video_12	https://www.youtube.com/watch?v=YKyF5Mi1sAA		Youtube	Inntel Hotels Amsterdam Zaandam	Inntel Hotels 	Zaandam	Netherland	Taste Deluxe Room	yes	yes	yes	yes(small desk near by the window)	yes	High	smooth(horizontal view)	I used Google AI search to identify which room is exactly they found out it is Taste Deluxe Room(
+video_13	https://www.youtube.com/watch?v=0PRGVJHd7jg		Youtube	Pearl Continental Hotel Rawalpindi(PC Hotels)	Pearl-Continental Hotels & Resorts	"Rawalpindi
+"	Pakistan	Deluxe Room	yes	yes	yes	yes	yes	Medium	not really smooth( a lot of movement of camera)	the room type looks delux room
+video_14	https://www.youtube.com/watch?v=-s-73MrA2vQ		Youtube	Hotel Indonesia Kempinski Jakarta	Kempinski Hotels	Jakarta	indonesia	King room with sofa bed	yes	yes	yes	yes	yes	High	smooth	room tour starts at 4:39 and ends at 8:37
+video_15	https://www.youtube.com/watch?v=_X0Adza99gE		Youtube	Darling Harbour	W Hotels Worldwide	Sydney	Australia	Two doubles beds	yes	yes	yes	yes	yes	High	smooth	
+video_16	https://www.youtube.com/watch?v=xBkyBL3gQTA		Youtube	Disney Hotel New York - The Art of Marvel	Disney Resorts	Paris	France	standard room (king bed, sofa bed for extra sleepers)	yes	yes	yes	yes	yes	High	smooth	Marvel-themed decor, TV behind glass panel
+video_17	https://www.youtube.com/watch?v=0KeX6CvOofI		Youtube	Claridge's	Maybourne Hotel Group	London	UK	king bed(Mayfair room)	yes	yes	yes	yes	yes(not clearly)	High	smooth	Room tour starts from 2:57
+video_18	https://www.youtube.com/watch?v=J-o9JUQ1syg		Youtube	Nobu Hotel Atlantic City	Caesars Entertainment	Atlantic City	USA	Two queen room	yes	yes	yes	yes	yes	High	smooth	ocean view, 44th floor
+video_19	https://www.youtube.com/watch?v=XNycnAJqkmI		Youtube	Jinling Grand Hotel Chongqing	Jinling Hotels & Resorts	Chongqing	China	king size room, room 1228, 12th floor	yes	yes (walk-in shower + bathtub in room)	yes	yes	yes	Medium(not hotel specific)	smooth	
+video_20	https://www.youtube.com/watch?v=J6Fv59Qm8mM		Youtube	Rosewood Guangzhou	 Rosewood Hotel Group	Guangzhou	China	King size room	yes	yes	yes	yes	yes	High	smooth	Room tour starts at 1:14
+video_21	https://www.youtube.com/watch?v=m4C67fnBq2U&t=85s		Youtube	Grand Central Hotel Shanghai (Nanjing Road)	WorldHotels Collection	Shanghai	China	King size bed room	yes	yes	yes	yes	yes	Medium(not hotel room specific)	smooth	Room tour starts at 1:29 ends 5:36
+video_22	https://www.youtube.com/watch?v=sxiR546JgBA&list=PLD38E2F224AEDD989&index=3		Youtube	Super 8 by Wyndham Houston/Webster/NASA	Super 8 by Wyndham	Houston	USA	King size bed room	yes	yes	yes	yes	No(window is facing floor walkway)	High	smooth	
+video_23	https://www.youtube.com/watch?v=L_6fQ4bmY5Y		Youtube	Moxy Hotel	Marriott International 	Seoul,	South Korea	King size bed room	yes	yes	yes	yes	yes	High	smooth	Room tour ends at 5:42
+video_24	https://www.youtube.com/watch?v=13tmwJrDj74		Youtube	"
+Tanibay Hotel & Wedding"	N/A	Ulsan	South Korea	Twin Room.	yes	yes	yes	yes	yes	High	smooth	Room tour ends at 8:40
+video_25	https://www.youtube.com/watch?v=B9j4LUAXGyA		Youtube	The Stay Classic Hotel Myeongdong	N/A	Seoul	South Korea	Twin Room.	yes	yes	yes(just wall)	yes	yes	High	smooth	Room tour ends at 3:03
+video_26	https://www.youtube.com/watch?v=o4J1fvKXIKs		Youtube	Nest Hotel Incheon	Design Hotel / Marriott Bonvoy.	Incheon	South Korea	One bed(king size)	yes	yes	yes	yes	yes	High	smooth	Room tour ends at 5:23. Wall-mounted lamps on both sides of headboard; wooden headboard
+video_27	https://www.youtube.com/watch?v=0eJCwaZDuq0		Youtube	Qualia De Hôtel Hoi An 	N/A	Hoi An	Vitenam	Deluxe Double Room – King Bed – 35m²	yes	yes	yes	yes	yes	High	smooth	Room tour starts at 2:46 and ends 5:02 
+video_28	https://www.youtube.com/watch?v=xn1p-OGTpsM&t=42s		Youtube	Rex Hotel	Saigontourist 	Ho Chi Minh 	"Vitenam
+"	Twin Room.	yes	yes	yes	yes	yes	medium	smooth	Room tour:0:42-1:43
+video_29	https://www.youtube.com/watch?v=VczqCRwKo-M		Youtube	Cherry Hotel and Apartment	N/A	Ho Chi Minh 	"Vitenam
+"	King-size room with sofa, 35m², 7th floor	yes	yes	yes	yes	yes	High	smooth	
+video_30	https://www.youtube.com/watch?v=CUmEALhGJTI		Youtube	Royal Charm Hotel	N/A	Da Nang	"Vitenam
+"	Deluxe Double Room with Balcony, king bed	yes	yes	no	yes	yes	High	smooth	Room tour: 1:43 -4:34. a little sofa and table near by window
+video_31	https://www.youtube.com/watch?v=qDOYCuT0Lec		Youtube			Japan										
+video_32	https://www.youtube.com/watch?v=HokFfgCya3Y		Youtube	Rosewood Hong Kong	 Rosewood Hotels	Hong Kong	Hong Kong	Premier Room with Harbor View	yes	yes	yes	yes	yes	High	 handheld (fast-paced tour)	Entirely about room tour
+video_33	https://www.youtube.com/watch?v=qLKqP6ZQZNY		Youtube	Mini Central	N/A	Hong Kong 	Hong Kong	single bed, compact/mini room	yes	yes	no	no	yes	medium	handheld	
+video_34	https://www.youtube.com/watch?v=4lju92q40Ms		Youtube	The Peninsula Hong Kong	The Peninsula Hotels	Hong Kong 	Hong Kong	King bed 	yes	yes	yes	yes	no	Medium	handheld	Room tour starts at 1:28
+video_35	https://www.youtube.com/watch?v=VkDaFW1XseA		Youtube	Radisson Blu	Radisson Hotel Group	Zurich	"Switzerland
+"	One King bed 	yes	yes	yes	yes	yes	high	handheld	
+video_36	https://www.youtube.com/watch?v=XZIIRycOJj4		Youtube	ibis Lausanne Centre	Accor	Lausanne	"Switzerland
+"	Double Room	yes	yes	yes(two art works and a lamp on the top of the bed)	yes	yes	high	handheld	
+video_37	https://www.youtube.com/watch?v=HqnfuoJBQxI		Youtube	Holiday Inn Express Lucerne Kriens	IHG	Lucerne (Kriens)	"Switzerland
+"	1 Double Suite with Sofa Bed Mountain View	yes	yes	no	yes	yes	medium	handheld	
+video_38	https://www.youtube.com/watch?v=X_V8HXp9YFg		Youtube				Netherland									
+video_39	https://www.youtube.com/watch?v=kejrWxPWzi4		Youtube				Pakistan									
+video_40	https://www.youtube.com/watch?v=KuIAc0F3wV4		Youtube				Pakistan									
+video_41	https://www.youtube.com/watch?v=RN_Dzj22GI8		Youtube				Pakistan									
+video_42	https://www.youtube.com/watch?v=aFjL83HZDDg		Youtube				Pakistan									
+video_43	https://www.youtube.com/watch?v=EiZb9UonkaA		Youtube				indonesia									
+video_44	https://www.youtube.com/watch?v=0vksPLEdK8g		Youtube				indonesia									
+video_45	https://www.youtube.com/watch?v=k48KriZEh74		Youtube				USA									
+video_46	https://www.youtube.com/watch?v=WeMVz8CwK7A		Youtube				USA									
+video_47	https://www.youtube.com/watch?v=ybs9uU_29R8		Youtube				USA									
+video_48	https://www.youtube.com/watch?v=xUxA8rrEzGg		Youtube				USA									
+video_49	https://www.youtube.com/watch?v=qDOYCuT0Lec		Youtube				Japan									
+video_50	https://www.youtube.com/watch?v=On8HzIXJqv0		Youtube				Japan									
