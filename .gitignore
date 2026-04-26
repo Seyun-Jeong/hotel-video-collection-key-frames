@@ -1,0 +1,16 @@
+# some video files I will use for testing
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.webm
+
+# macOS junk 
+.DS_Store
+
+# python cache
+__pycache__/
+*.pyc
+
+# env
+.env
