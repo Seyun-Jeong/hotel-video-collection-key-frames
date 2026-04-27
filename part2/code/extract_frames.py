@@ -38,7 +38,7 @@ import subprocess
 from pathlib import Path
 
 
-TARGET_IDS = {"video_11"}   # test only one video first
+TARGET_IDS = {"video_11", "video_09", "video_12", "video_21","video_29"}   # test only one video first
 
 
 results_path = Path("part2/results/extracted_frames.jsonl")
@@ -59,14 +59,17 @@ with results_path.open("w") as out:
             output_folder.mkdir(parents=True, exist_ok=True)
 
             for start, end in record["interior_intervals"]:
-                for timestamp in range(start, end + 1):
+                for timestamp in range(start, end):
                     output_path = output_folder / f"frame_t{timestamp:06d}.jpg"
                     subprocess.run([
                         "ffmpeg",
+                        "-hide_banner",
+                        "-loglevel", "error",
                         "-y",
                         "-ss", str(timestamp),
                         "-i", str(input_video),
                         "-frames:v", "1",
+                        "-update", "1",
                         str(output_path),
                     ], check=True)
 
