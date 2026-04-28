@@ -135,7 +135,6 @@
 {"video_id": "video_09", "timestamp_seconds": 311, "frame_path": "part2/frames/video_09/frame_t000311.jpg"}
 {"video_id": "video_09", "timestamp_seconds": 312, "frame_path": "part2/frames/video_09/frame_t000312.jpg"}
 {"video_id": "video_09", "timestamp_seconds": 313, "frame_path": "part2/frames/video_09/frame_t000313.jpg"}
-{"video_id": "video_09", "timestamp_seconds": 321, "frame_path": "part2/frames/video_09/frame_t000321.jpg"}
 {"video_id": "video_11", "timestamp_seconds": 10, "frame_path": "part2/frames/video_11/frame_t000010.jpg"}
 {"video_id": "video_11", "timestamp_seconds": 11, "frame_path": "part2/frames/video_11/frame_t000011.jpg"}
 {"video_id": "video_11", "timestamp_seconds": 12, "frame_path": "part2/frames/video_11/frame_t000012.jpg"}
@@ -306,7 +305,6 @@
 {"video_id": "video_11", "timestamp_seconds": 187, "frame_path": "part2/frames/video_11/frame_t000187.jpg"}
 {"video_id": "video_11", "timestamp_seconds": 188, "frame_path": "part2/frames/video_11/frame_t000188.jpg"}
 {"video_id": "video_11", "timestamp_seconds": 189, "frame_path": "part2/frames/video_11/frame_t000189.jpg"}
-{"video_id": "video_12", "timestamp_seconds": 89, "frame_path": "part2/frames/video_12/frame_t000089.jpg"}
 {"video_id": "video_12", "timestamp_seconds": 90, "frame_path": "part2/frames/video_12/frame_t000090.jpg"}
 {"video_id": "video_12", "timestamp_seconds": 91, "frame_path": "part2/frames/video_12/frame_t000091.jpg"}
 {"video_id": "video_12", "timestamp_seconds": 92, "frame_path": "part2/frames/video_12/frame_t000092.jpg"}
@@ -526,7 +524,6 @@
 {"video_id": "video_21", "timestamp_seconds": 115, "frame_path": "part2/frames/video_21/frame_t000115.jpg"}
 {"video_id": "video_21", "timestamp_seconds": 116, "frame_path": "part2/frames/video_21/frame_t000116.jpg"}
 {"video_id": "video_21", "timestamp_seconds": 117, "frame_path": "part2/frames/video_21/frame_t000117.jpg"}
-{"video_id": "video_21", "timestamp_seconds": 136, "frame_path": "part2/frames/video_21/frame_t000136.jpg"}
 {"video_id": "video_21", "timestamp_seconds": 137, "frame_path": "part2/frames/video_21/frame_t000137.jpg"}
 {"video_id": "video_21", "timestamp_seconds": 138, "frame_path": "part2/frames/video_21/frame_t000138.jpg"}
 {"video_id": "video_21", "timestamp_seconds": 139, "frame_path": "part2/frames/video_21/frame_t000139.jpg"}
@@ -573,7 +570,6 @@
 {"video_id": "video_21", "timestamp_seconds": 180, "frame_path": "part2/frames/video_21/frame_t000180.jpg"}
 {"video_id": "video_21", "timestamp_seconds": 181, "frame_path": "part2/frames/video_21/frame_t000181.jpg"}
 {"video_id": "video_21", "timestamp_seconds": 182, "frame_path": "part2/frames/video_21/frame_t000182.jpg"}
-{"video_id": "video_29", "timestamp_seconds": 0, "frame_path": "part2/frames/video_29/frame_t000000.jpg"}
 {"video_id": "video_29", "timestamp_seconds": 1, "frame_path": "part2/frames/video_29/frame_t000001.jpg"}
 {"video_id": "video_29", "timestamp_seconds": 2, "frame_path": "part2/frames/video_29/frame_t000002.jpg"}
 {"video_id": "video_29", "timestamp_seconds": 3, "frame_path": "part2/frames/video_29/frame_t000003.jpg"}
