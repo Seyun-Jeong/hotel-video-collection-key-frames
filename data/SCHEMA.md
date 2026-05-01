@@ -48,10 +48,10 @@ usable interior portion.
 ## Temporal structure
 
 **`interior_intervals`** — list of `[start_second, end_second]` pairs
-(integer seconds, inclusive on both ends) marking which portions of the
-video show the guest-room interior. Example: `[[8, 92], [110, 184]]`
-means interior is shown from 0:08–1:32 and 1:50–3:04. Lobbies,
-corridors, and public spaces do not count.
+(integer seconds, start included and end excluded) marking which portions
+of the video show the guest-room interior. Example: `[[8, 92], [110, 184]]`
+means frames are extracted for timestamps 8 through 91 and 110 through 183.
+Lobbies, corridors, and public spaces do not count.
 
 ## Video style
 
