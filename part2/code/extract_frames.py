@@ -38,7 +38,7 @@ import subprocess
 from pathlib import Path
 
 
-TARGET_IDS = {"video_11", "video_09", "video_12", "video_21","video_29"}   # test only one video first
+TARGET_IDS = {"video_11", "video_09", "video_12", "video_21","video_29"}
 
 
 results_path = Path("part2/results/extracted_frames.jsonl")
