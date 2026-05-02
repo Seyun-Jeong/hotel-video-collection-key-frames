@@ -51,9 +51,9 @@ with results_path.open("w") as out:
             if record['video_id'] not in TARGET_IDS:
                 continue
                     
-            input_video = Path("part2/videos") / f'{record["video_id"]}.mp4'
-            if not input_video.exists():
-                raise FileNotFoundError(input_video)
+            input_video = next(Path("part2/videos").glob(f'{record["video_id"]}.*'))
+            if input_video is None:
+                raise FileNotFoundError(f'No video file for {record["video_id"]} in part2/videos/')
                     
             output_folder = Path("part2/frames") / record["video_id"]
             output_folder.mkdir(parents=True, exist_ok=True)
