@@ -1,8 +1,13 @@
-What the project does
-    - The hotel-video-collection-key-frames repository documents how we obtain 50 hotel interior videos and choose a key-frame model that reduces redundancy—content that would not help downstream steps such as retrieval and indexing.
+# Hotel Room Interior Video Collection and Keyframe Selection
 
-Why the project is useful
-    - This project is useful because it provides curated video that can help investigators infer victim locations from clues visible in the footage.
+A dataset of 50 hotel room interior videos, with structured metadata for each. A uniform temporal sampling pipeline that selects 10 keyframes from each of 5 videos.
+
+## What this is
+
+    1. A take-home assignment for the extension version of TraffickCam.
+    2. Contributing investigators identify hotel locations from videos as evidence in trafficking cases.
+    3. To cultivate video dataset and implement keyframe selection. 
+
 
 How users can get started with the project
     - TBD
