@@ -1,0 +1,60 @@
+{
+  "method": "uniform_temporal_sampling",
+  "k": 10,
+  "coverage_metric_note": "Coverage is a proxy metric. It measures whether selected keyframe timestamps overlap manually annotated discriminative_elements. It does not prove real hotel retrieval performance.",
+  "extracted_frames_count": {
+    "video_09": 137,
+    "video_11": 170,
+    "video_12": 126,
+    "video_21": 139,
+    "video_29": 146
+  },
+  "selected_frames_count": {
+    "video_09": 10,
+    "video_11": 10,
+    "video_12": 10,
+    "video_21": 10,
+    "video_29": 10
+  },
+  "compression_ratio": {
+    "video_09": 0.073,
+    "video_11": 0.0588,
+    "video_12": 0.0794,
+    "video_21": 0.0719,
+    "video_29": 0.0685
+  },
+  "reduction_percent": {
+    "video_09": 92.7,
+    "video_11": 94.12,
+    "video_12": 92.06,
+    "video_21": 92.81,
+    "video_29": 93.15
+  },
+  "discriminative_elements_coverage": {
+    "video_09": {
+      "discriminative_elements_total": 5,
+      "discriminative_elements_covered": 4,
+      "coverage_percent": 80.0
+    },
+    "video_11": {
+      "discriminative_elements_total": 5,
+      "discriminative_elements_covered": 2,
+      "coverage_percent": 40.0
+    },
+    "video_12": {
+      "discriminative_elements_total": 5,
+      "discriminative_elements_covered": 2,
+      "coverage_percent": 40.0
+    },
+    "video_21": {
+      "discriminative_elements_total": 5,
+      "discriminative_elements_covered": 0,
+      "coverage_percent": 0.0
+    },
+    "video_29": {
+      "discriminative_elements_total": 5,
+      "discriminative_elements_covered": 2,
+      "coverage_percent": 40.0
+    }
+  }
+}

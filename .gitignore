@@ -14,3 +14,6 @@ __pycache__/
 
 # env
 .env
+# Part 2: large generated artifacts (not committed)
+part2/videos/
+part2/frames/
