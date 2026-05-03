@@ -20,7 +20,7 @@ I visually inspected all 50 keyframes against the annotated discriminative eleme
 
 
 video_09: metric 4/5., visual 5/5 notes: chair[194-200}Chair wasn’t the main focus also bed also was visible, "mirror"[286, 305]partially visible also other mirror standing mirror also visible
-"other"[200, 204]Was shown in keyframe_03_t000199.png
+"other"[200, 204]Was shown in keyframe_03_t000199.jpg
 
 video_11: metric 2/5, visual 4/5 notes: sink[66-77]barely visible because of bathroom door was opening image."toilet"[73, 77]:keyframe_05_t000085.jpg also is shown this toilet."tv"[139, 144]partially visible along with chairs(chairs more focused on the image) tv is upright side barely visible.
 
