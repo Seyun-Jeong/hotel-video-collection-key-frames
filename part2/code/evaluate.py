@@ -126,6 +126,6 @@ metrics = {
 }
 
 
-# Save metrics to part2/results/metrics.json.
+#save metrics to part2/results/metrics.json.
 with open('part2/results/metrics.json', 'w') as f:
     json.dump(metrics, f, indent=2)
