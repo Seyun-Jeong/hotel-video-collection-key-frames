@@ -1,36 +1,15 @@
 """
-1. Read data/metadata.jsonl
-2. Keep only selected video IDs
-3. For now, test only video_11
-4. Read video_11's interior_intervals
-5. Create part2/frames/video_11/
-6. For each second inside the interval:
-      call FFmpeg
-      save frame_tXXXXXX.jpg
-      record timestamp + frame path
-7. Save a mapping file:
-      part2/results/extracted_frames.jsonl
+Extract frames for the five videos used in Part 2.
 
-pesudo code:
-TARGET_IDS = {"video_11"}   # test only one video first
+This script:
+1. Reads data/metadata.jsonl.
+2. Keeps only the selected Part 2 video IDs.
+3. Finds each downloaded video file in part2/videos/.
+4. Extracts one frame per second from each video's interior_intervals.
+5. Saves extracted frames under part2/frames/{video_id}/.
+6. Writes frame metadata to part2/results/extracted_frames.jsonl.
 
-load records from data/metadata.jsonl
-
-for each record:
-    if video_id is not in TARGET_IDS:
-        skip
-
-    input_video = part2/videos/{video_id}.mp4
-    output_folder = part2/frames/{video_id}/
-
-    for each [start, end] in interior_intervals:
-        for timestamp in range(start, end):
-            output_path = part2/frames/{video_id}/frame_t{timestamp}.jpg
-
-            run:
-            ffmpeg -y -ss timestamp -i input_video -frames:v 1 output_path
-
-            write mapping line to extracted_frames.jsonl
+FFmpeg is used for frame extraction.
 """
 
 import json 
