@@ -89,5 +89,5 @@ Outputs:
 - Initially I tried to annotate each video manually but found the labels became shallow yes/no judgments and were time-consuming. I switched to drafting metadata with Google Gemini's YouTube video analysis, then manually validating each draft. This produced richer schema fields than fully manual work, but the final labels still reflect a single reviewer's judgment, and visual inspection during Part 2 surfaced minor timestamp errors in some discriminative_elements ranges (e.g., video_12, video_29).
 
 **Method and metric:**
-- uniform temporal sampling doesn't have content awareness - it picks evenly spaced frames by time, not by what is visible. 
-- The range metric achieved 10 out of 25 elements covered. Visual check found 17 out of 25, which is about a 28 percent gap. The metric calculates timestamp overlap, not whether the feature is visible in the keyframe; thus, it understates real coverage.
+- uniform temporal sampling has no content awareness - it picks evenly spaced frames by time, not by what is visible. 
+- The range metric achieved 10 out of 25 elements covered. Visual check found 17 out of 25, which is a 28 percentage-point gap. The metric calculates timestamp overlap, not whether the feature is visible in the keyframe; thus, it understates real coverage.
